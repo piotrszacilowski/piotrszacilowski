@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Piotr and I'm a software developer from Poland 🇵🇱.
+I mainly program using Python 🐍, but I am willing and able to use other technologies if needed.
+
+### Contact 📫
+- [Mail](mailto:szacilowski.piotr@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/piotrszacilowski/)
+
 <!--
 **piotrszacilowski/piotrszacilowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
