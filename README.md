@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-🔍 My name is Piotr and I'm Software Engineer with 3 years of professional experience in crafting powerful web applications.
+🔍 My name is Piotr and I'm Software Engineer with over 3 years of professional experience in developing robust web applications. Specializing in Python 🐍, I spend my days diving deep into coding, constantly refining my expertise in backend development and system architecture. I'm passionate about creating efficient, scalable solutions that drive innovation.
 
-🐍 Python enthusiast by day, exploring the ever-evolving world of frontend technologies by night. I pride myself on being a versatile developer, capable of bringing an application to life from its very inception to its deployment into production.
+🌐 Beyond my professional life, I'm a co-creator of two ambitious web3 projects: [audithunt.xyz](audithunt.xyz) and [syncra.xyz](syncra.xyz) 🚀, which showcase my commitment to leveraging decentralized technologies for impactful applications.
 
-🌐 Recently venturing into the exciting realm of web3, eager to harness its potential and blend it with my current skill set.
+🎯 I'm passionate about building scalable, efficient systems and continuously learning to stay at the forefront of technological advancements.
 
-🛠️ Tools & Tech: Python, FastAPI, JavaScript, Java, Spring Boot, React.js, Vue.js, Docker, docker-compose, PostgreSQL, MongoDB, neo4j, Celery, RabbitMQ, Redis, Pandas, Alembic, asyncio, Pytest, mypy, Web3.
+🛠️ Tools & Tech: Python, FastAPI, JavaScript, Java, Spring Boot, React.js, Vue.js, Docker, docker-compose, PostgreSQL, MongoDB, neo4j, Celery, RabbitMQ, Redis, Pandas, Alembic, asyncio, Pytest, mypy, web3py.
 
 ### Let's connect and collaborate! Always open to new ideas and projects. 📫
 - [Mail](mailto:szacilowski.piotr@gmail.com)
